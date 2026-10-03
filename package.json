@@ -1,9 +1,8 @@
 {
-  "name": "com.CJS.SOCreator",
-  "version": "1.0",
+  "name": "com.cjs.socreator",
+  "version": "1.0.0",
   "displayName": "SO Creator",
   "description": "Editor script that allows creating SO instances easily.",
-  "unity": "4.6.2",
   "dependencies": {
   },
   "keywords": [
