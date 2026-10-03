@@ -1,0 +1,18 @@
+{
+  "name": "com.CJS.SOCreator",
+  "version": "1.0",
+  "displayName": "SO Creator",
+  "description": "Editor script that allows creating SO instances easily.",
+  "unity": "4.6.2",
+  "dependencies": {
+  },
+  "keywords": [
+    "CJS",
+    "SO",
+    "ScriptableObject"
+  ],
+  "author": {
+    "name": "Calum Stanley",
+    "email": "cstanley.dev.1986@gmail.com"
+  }
+}
