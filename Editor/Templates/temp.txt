@@ -1,18 +1,13 @@
 using UnityEngine;
 
     #ROOTNAMESPACEBEGIN#
-public class #SCRIPTNAME# : ContextNode
+public class #SCRIPTNAME# : MyPlainClass
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+        #NOTRIM#
+    public override void Apple()
     {
         #NOTRIM#
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        #NOTRIM#
-    }
+    } 
+    #NOTRIM#
 }
 #ROOTNAMESPACEEND#

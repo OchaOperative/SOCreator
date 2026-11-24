@@ -3,16 +3,7 @@ using UnityEngine;
     #ROOTNAMESPACEBEGIN#
 public class #SCRIPTNAME# : #SUPER#
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        #NOTRIM#
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        #NOTRIM#
-    }
+    #BODY#
+    #NOTRIM#
 }
 #ROOTNAMESPACEEND#

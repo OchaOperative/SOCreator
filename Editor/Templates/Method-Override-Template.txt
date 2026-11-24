@@ -1,5 +1,0 @@
-#NOTRIM#
-#AC# override #RETURN# #NAME#()
-{
-    #NOTRIM#
-} 

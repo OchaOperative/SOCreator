@@ -1,0 +1,5 @@
+    #NOTRIM#
+    #ACCESS# override #RETURN# #METHODNAME#()
+    {
+        #NOTRIM#
+    } 
