@@ -10,3 +10,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Editor/Templates/temp.txt
+Editor/Templates/temp.txt.meta

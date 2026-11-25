@@ -1,9 +1,8 @@
-using UnityEngine;
+#USINGS#
 
-    #ROOTNAMESPACEBEGIN#
+    #NAMESPACEBEGIN#
 public class #SCRIPTNAME# : #SUPER#
 {
     #BODY#
-    #NOTRIM#
 }
-#ROOTNAMESPACEEND#
+#NAMESPACEEND#

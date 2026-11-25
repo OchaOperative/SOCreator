@@ -1,5 +1,6 @@
-    #NOTRIM#
-    #ACCESS# override #RETURN# #METHODNAME#()
-    {
         #NOTRIM#
-    } 
+        #ACCESS# override #RETURN# #METHODNAME#(#PARAMS#)
+        {
+            throw new NotImplementedException();
+        }
+        #NOTRIM#
